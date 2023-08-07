@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is `Oliver Neitzel-Johnson` and this is what a growth mindset means to me and you can find me on [Github](https://github.com/OliverNJ).
+My name is `Oliver Neitzel-Johnson` and this is what a growth mindset means to me. You can find me on [Github](https://github.com/OliverNJ).
 
 ## What Is A Growth Mindset?
 
