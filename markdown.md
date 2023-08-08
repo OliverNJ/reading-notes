@@ -2,7 +2,7 @@
 
 ## What is Markdown?
 
-Markdown is a simplified abstraction of HTML. While still based on HTML, Markdown gives limited access to the full set of HTML features with the intent of customizing plain text to become more rich. Instead of spending time figuring out which HTML element is needed for the job, Markdown supports easy to use text **'hints'** (`**hints**`).
+Markdown is a simplified abstraction of HTML. While still based on HTML, Markdown gives limited access to the full set of HTML features with the intent of customizing plain text to become more rich. Instead of spending time figuring out which HTML element is needed for the job, Markdown supports easy to use text **'hints'** (`**'hints'**`).
 
 ## Why use Markdown?
 
