@@ -31,3 +31,9 @@ Answer: `[This is a link](https://example.com)` ([This is a link](https://exampl
 ## What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
 Answer: `- * +`
+
+- I'm using `-`
+
+* I'm using `*`
+
+- I'm using `+`
