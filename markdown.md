@@ -22,8 +22,6 @@ Answer: `1`
 
 Answer: `6`
 
-<br>
-
 ### When making text bold or italicized for emphasis, it is best practice to use use which symbol?
 
 Answer: `**like this**` (**like this**)
