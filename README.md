@@ -14,27 +14,27 @@ This site is dedicated to my reading notes for Code Fellows. It will be routinel
 
 1. [Learning Markdown](./102/learning-markdown)
 2. [The Coder's Computer](./102/the-coders-computer)
-3. ~~[Revisions and the Cloud](/)~~
-4. ~~[Topic 4](/)~~
-5. ~~[Topic 5](/)~~
-6. ~~[Topic 6](/)~~
-7. ~~[Topic 7](/)~~
-8. ~~[Topic 8](/)~~
+3. ~~[Revisions and the Cloud](/reading-notes/)~~
+4. ~~[Topic 4](/reading-notes/)~~
+5. ~~[Topic 5](/reading-notes/)~~
+6. ~~[Topic 6](/reading-notes/)~~
+7. ~~[Topic 7](/reading-notes/)~~
+8. ~~[Topic 8](/reading-notes/)~~
 
 ### Code 201 Reading Notes
 
-1. ~~[Topic 1](/)~~
-2. ~~[Topic 2](/)~~
-3. ~~[Topic 3](/)~~
-4. ~~[Topic 4](/)~~
-5. ~~[Topic 5](/)~~
-6. ~~[Topic 6](/)~~
-7. ~~[Topic 7](/)~~
-8. ~~[Topic 8](/)~~
-9. ~~[Topic 9](/)~~
-10. ~~[Topic 10](/)~~
-11. ~~[Topic 11](/)~~
-12. ~~[Topic 12](/)~~
-13. ~~[Topic 13](/)~~
-14. ~~[Topic 14](/)~~
-15. ~~[Topic 15](/)~~
+1. ~~[Topic 1](/reading-notes/)~~
+2. ~~[Topic 2](/reading-notes/)~~
+3. ~~[Topic 3](/reading-notes/)~~
+4. ~~[Topic 4](/reading-notes/)~~
+5. ~~[Topic 5](/reading-notes/)~~
+6. ~~[Topic 6](/reading-notes/)~~
+7. ~~[Topic 7](/reading-notes/)~~
+8. ~~[Topic 8](/reading-notes/)~~
+9. ~~[Topic 9](/reading-notes/)~~
+10. ~~[Topic 10](/reading-notes/)~~
+11. ~~[Topic 11](/reading-notes/)~~
+12. ~~[Topic 12](/reading-notes/)~~
+13. ~~[Topic 13](/reading-notes/)~~
+14. ~~[Topic 14](/reading-notes/)~~
+15. ~~[Topic 15](/reading-notes/)~~
