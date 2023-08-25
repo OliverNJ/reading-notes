@@ -2,28 +2,39 @@
 
 ## Introduction
 
-My name is `Oliver Neitzel-Johnson` and this is what a growth mindset means to me. You can find me on [Github](https://github.com/OliverNJ).
+My name is **Oliver Neitzel-Johnson**, you can find me on [Github](https://github.com/OliverNJ).
 
-## What Is A Growth Mindset?
+## What Is This?
 
-A growth mindset is the process of taking in the situation you find yourself in and focusing on how to improve it overall. You want to focus on what you're doing now that you can improve on and not lingering on the faults you are finding with yourself or your work.
+This site is dedicated to my reading notes for Code Fellows. It will be routinely updated as I complete upcoming topics.
 
-## Examples
+## Table of Contents
 
-We need for focus on how we can change a bad situation into a good situation.
+### Code 102 Reading Notes
 
-> "I can't do this"
+1. [Learning Markdown](./102/learning-markdown)
+2. [The Coder's Computer](./102/the-coders-computer)
+3. ~~[Revisions and the Cloud](/)~~
+4. ~~[Topic 4](/)~~
+5. ~~[Topic 5](/)~~
+6. ~~[Topic 6](/)~~
+7. ~~[Topic 7](/)~~
+8. ~~[Topic 8](/)~~
 
-Above is a **bad** way to cope with a situation. You want to see what you are capable of and when you are stuck seek out help.
+### Code 201 Reading Notes
 
-> "This is never going to work"
-
-If you have difficulty figuring out what your next steps are, you should always _ask someone else_ what your point of focus should be.
-
-## Things To Remember For The Future
-
-There are some things to keep in mind when you are struggling:
-
-1. See how far you can get with your work by yourself, don't beat yourself up if you get stuck.
-2. When you get stuck, find some help. There is no shame in not knowing what to do.
-3. Always be kind to yourself. If someone said the negative thoughts in your head outloud to you, how would you feel?
+1. ~~[Topic 1](/)~~
+2. ~~[Topic 2](/)~~
+3. ~~[Topic 3](/)~~
+4. ~~[Topic 4](/)~~
+5. ~~[Topic 5](/)~~
+6. ~~[Topic 6](/)~~
+7. ~~[Topic 7](/)~~
+8. ~~[Topic 8](/)~~
+9. ~~[Topic 9](/)~~
+10. ~~[Topic 10](/)~~
+11. ~~[Topic 11](/)~~
+12. ~~[Topic 12](/)~~
+13. ~~[Topic 13](/)~~
+14. ~~[Topic 14](/)~~
+15. ~~[Topic 15](/)~~
